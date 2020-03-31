@@ -1,3 +1,3 @@
 # Hellp-World
 Just another repository
-old dog learning new tricks
+learning to program for added income
