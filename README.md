@@ -1,3 +1,5 @@
 # Hellp-World
-Just another repository
-learning to program for added income
+learing to code
+to produce
+added income
+
